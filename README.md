@@ -26,7 +26,7 @@ pip install numpy pandas scikit-learn matplotlib tensorflow keras
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/machine-learning-Beginner-Projects.git
+   git clone https://github.com/shetashreya/machine-learning-Beginner-Projects.git
    ```
 2. Navigate to the project folder:
    ```bash
